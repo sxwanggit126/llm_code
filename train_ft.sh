@@ -1,0 +1,1 @@
+deepspeed --num_gpus=2 train.py --train_args_file training_config/qwen2-7b-full.json
